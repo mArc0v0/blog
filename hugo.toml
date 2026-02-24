@@ -2,6 +2,7 @@ baseURL = 'https://mArc0v0.github.io/blog/'
 languageCode = 'en-us'
 title = 'Esquisse of Erzählen'
 theme = 'paper'
+copyright = '© 2025–2026 Marco Zhang'
 
 [author]
   name = 'Marco'
