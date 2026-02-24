@@ -11,8 +11,8 @@ theme = 'paper'
   twitter = ''
   github = 'mArc0v0'
   avatar = ''
-  name = 'Marco'
-  bio = '好奇心 · Curiosity · Bourdieu · Asset Pricing · 内在和谐'
+  name = ''
+  bio = ''
 
 [markup]
   [markup.highlight]
