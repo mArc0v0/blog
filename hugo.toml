@@ -1,0 +1,39 @@
+baseURL = 'https://mArc0v0.github.io/blog/'
+languageCode = 'en-us'
+title = 'Q2P'
+theme = 'paper'
+
+[author]
+  name = 'Marco'
+
+[params]
+  color = 'linen'
+  twitter = ''
+  github = 'mArc0v0'
+  avatar = ''
+  name = 'Marco'
+  bio = '好奇心 · Curiosity · Bourdieu · Asset Pricing · 内在和谐'
+
+[markup]
+  [markup.highlight]
+    style = 'dracula'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = 'essays'
+    name = 'Essays'
+    url = '/posts/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'fragments'
+    name = 'Fragments'
+    url = '/fragments/'
+    weight = 2
+  [[menu.main]]
+    identifier = 'about'
+    name = 'About'
+    url = '/about/'
+    weight = 3
