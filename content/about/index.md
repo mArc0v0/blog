@@ -12,6 +12,8 @@ The combination: **sketches of narration**. Thinking that doesn't pretend to be 
 
 ---
 
+## What lives here
+
 **Essays** — longer pieces. **Fragments** — raw thoughts, things I haven't figured out yet.
 
 Written in Chinese and English — because some ideas are sharper in one language than the other.
